@@ -1,3 +1,4 @@
+#To’plamlar ustida bajarish mumkin bo’lsang operatsiyalar:
 nums1 = {1 , 2 , 3}
 nums2 = {2 , 3 , 4 , 5}
 
