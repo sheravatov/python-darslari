@@ -60,3 +60,24 @@ if month == (days_in_month[month-1]):
 
 
 
+'''
+number = 10000 # [1 , 2 , 3 , 4 , 5 ... ,100 , 101]
+count = 0
+
+for num in range(1 , number+1): 
+
+    for n in range(1 , num): # 1 - - > 23
+       if num % n == 0 : # 21 
+           count+=n  # 21
+    if count == num :
+        print(count)
+    count = 0
+           
+
+
+
+'''
+
+
+
+
